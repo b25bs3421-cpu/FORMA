@@ -1,0 +1,6 @@
+{
+  "name": "DocuGround & Forma — Source-Grounded Document Q&A & Spatial Ideation",
+  "description": "A production-grade document assistant that accepts multiple documents, retrieves relevant passages, cites source excerpts, and spatial ideation whiteboard platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
